@@ -21,7 +21,7 @@ My dataset contains various information about retail company customers, includin
 ![Untitled](https://github.com/aidatabaeva/customer-segmentation/assets/121254366/068b9da6-4c73-47d6-8402-5e04aa222200)
 
 
-### Result
+### Results
 As a result of this project, I have derived three distinct customer clusters, each with its similarities and differences. In marketing analysis, creating personas is a common practice to interpret and profile customer segments. After a thorough analysis of each cluster, I have created three personas describing each respective segment.
 
 ![Untitled2](https://github.com/aidatabaeva/customer-segmentation/assets/121254366/139e4d0c-dfe8-4860-8c6e-4852a638705e)
