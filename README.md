@@ -1,7 +1,9 @@
 Methodology: **k-means Clustering, PCA, Imputation via Linear regression, Multicollinearity Detection with Variance Inflation Factor**
 
 Tools Used: **R, Jupyter Notebook, Tableau**
+
 Category: **Unsupervised Learning, Clustering**
+
 Year: **2022**
 
 # Customer Segmentation
