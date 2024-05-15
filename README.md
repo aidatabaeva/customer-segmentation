@@ -1,1 +1,2 @@
-# customer-segmentation
+# Customer Segmentaion
+Customer Segmentation is a crucial exercise for many businesses. It enables companies to better understand customers’ needs, deliver targeted differentiated messaging, communicate via appropriate channels, and optimize marketing spend. With the amount of data companies collect about their customers these days it’s hard to naturally identify segments. Here machine learning comes into play with powerful unsupervised learning techniques, such as Clustering. In my report I am describing the step-by-step process of a Customer Segmentation analysis and how it can be effective in building customer personas. I am also addressing the data manipulation and pre-processing needs that enable more effective data analysis.
