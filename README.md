@@ -10,4 +10,5 @@ My dataset contains 2,240 observations and 29 features with various information 
 - What’s the best way to communicate with them?
 - What is the most profitable segment?
 
-![Untitled](https://github.com/aidatabaeva/customer-segmentation/assets/121254366/82807ae8-3bfc-4b02-8ce4-ae9b0194b7bc)
+### Summarized Steps
+![Untitled](https://github.com/aidatabaeva/customer-segmentation/assets/121254366/068b9da6-4c73-47d6-8402-5e04aa222200)
