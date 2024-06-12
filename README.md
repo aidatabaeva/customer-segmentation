@@ -7,7 +7,7 @@ Customer Segmentation is a crucial exercise for many businesses. It enables comp
 
 
 ### Data
-My dataset contains various information about retail company customers, including demographic data, purchase data, promotional data, and customer behavior data.
+The dataset contains various information about retail company customers, including demographic data, purchase data, promotional data, and customer behavior data.
 
 
 ### Research Question to Answer
